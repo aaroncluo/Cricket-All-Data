@@ -1,0 +1,75 @@
+
+Cricket Observation Data Analysis (Utah, All Observations)
+Generated on 2025-06-17 12:53:39
+============================================================
+
+1. Overview
+-----------
+Total Observations: 6157
+Unique Species Identified: 125
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Melanoplus differentialis      939
+Melanoplus                     699
+Melanoplus bivittatus          644
+Acrididae                      507
+Trimerotropis pallidipennis    460
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January         5
+February        5
+March          17
+April         154
+May           511
+June          867
+July         1242
+August       1327
+September    1225
+October       681
+November      104
+December       19
+Average Observations per Month: 513.08
+
+Observations by Year:
+year
+1987       1
+2004       4
+2005       1
+2006       2
+2007       5
+2008       6
+2009       3
+2010       7
+2011      18
+2012       8
+2013       9
+2014      12
+2015      35
+2016      69
+2017     144
+2018     235
+2019     391
+2020     521
+2021     615
+2022    1106
+2023    1510
+2024    1415
+2025      40
+Average Observations per Year: 267.70
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 36.9991 to 41.9853
+Longitude Range: -114.0785 to -109.0206
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
