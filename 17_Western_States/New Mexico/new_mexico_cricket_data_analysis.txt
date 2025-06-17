@@ -1,0 +1,66 @@
+
+Cricket Observation Data Analysis (New Mexico, All Observations)
+Generated on 2025-06-17 12:52:49
+============================================================
+
+1. Overview
+-----------
+Total Observations: 1087
+Unique Species Identified: 50
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllus      335
+Oecanthus    120
+Gryllidea     71
+Gryllinae     68
+Gryllini      62
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       14
+February      13
+March         29
+April        116
+May           85
+June         124
+July         106
+August       214
+September    171
+October      147
+November      49
+December      19
+Average Observations per Month: 90.58
+
+Observations by Year:
+year
+2008      1
+2011      1
+2013      1
+2014      1
+2016     15
+2017     22
+2018     49
+2019     83
+2020     70
+2021    162
+2022    261
+2023    191
+2024    201
+2025     29
+Average Observations per Year: 77.64
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 31.5190 to 36.9807
+Longitude Range: -109.1738 to -103.1122
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
