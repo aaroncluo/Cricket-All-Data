@@ -1,0 +1,64 @@
+
+Cricket Observation Data Analysis (Idaho, All Observations)
+Generated on 2025-06-17 12:52:38
+============================================================
+
+1. Overview
+-----------
+Total Observations: 432
+Unique Species Identified: 24
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Oecanthus                 135
+Gryllus                    97
+Gryllus veletis            46
+Oecanthus californicus     28
+Oecanthus rileyi           21
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January        2
+February       5
+March         12
+April         21
+May           43
+June          26
+July          44
+August        87
+September    148
+October       32
+November      11
+December       1
+Average Observations per Month: 36.00
+
+Observations by Year:
+year
+2012      2
+2015      1
+2016      8
+2017      5
+2018     15
+2019     23
+2020     34
+2021     66
+2022     74
+2023     58
+2024    133
+2025     13
+Average Observations per Year: 36.00
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 42.0524 to 48.3289
+Longitude Range: -117.0246 to -111.0568
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
