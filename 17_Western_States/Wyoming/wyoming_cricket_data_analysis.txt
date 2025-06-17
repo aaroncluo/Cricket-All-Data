@@ -1,0 +1,75 @@
+
+Cricket Observation Data Analysis (Wyoming, All Observations)
+Generated on 2025-06-17 12:53:52
+============================================================
+
+1. Overview
+-----------
+Total Observations: 1942
+Unique Species Identified: 112
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Acrididae                221
+Melanoplus bivittatus    190
+Melanoplus               166
+Oedipodinae              142
+Camnula pellucida        125
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January        5
+February       3
+March          9
+April         26
+May           82
+June         180
+July         472
+August       655
+September    448
+October       61
+November       0
+December       1
+Average Observations per Month: 161.83
+
+Observations by Year:
+year
+1999      1
+2000      2
+2004      3
+2006      2
+2007      2
+2008      1
+2009      2
+2010      8
+2011      6
+2012      2
+2013      4
+2014     10
+2015      8
+2016     15
+2017     55
+2018    123
+2019    170
+2020    264
+2021    158
+2022    262
+2023    328
+2024    508
+2025      8
+Average Observations per Year: 84.43
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 41.0030 to 44.9936
+Longitude Range: -111.0433 to -104.0730
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
