@@ -1,0 +1,63 @@
+
+Cricket Observation Data Analysis (North Dakota, All Observations)
+Generated on 2025-06-17 12:52:51
+============================================================
+
+1. Overview
+-----------
+Total Observations: 117
+Unique Species Identified: 16
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllus pennsylvanicus    43
+Gryllus veletis           14
+Allonemobius              10
+Gryllus                    8
+Oecanthus                  7
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       1
+February      0
+March         0
+April         0
+May           0
+June         13
+July         12
+August       46
+September    36
+October       8
+November      1
+December      0
+Average Observations per Month: 9.75
+
+Observations by Year:
+year
+2011     1
+2013     1
+2014     2
+2017     1
+2018     3
+2019    12
+2020    16
+2021    17
+2022    21
+2023    19
+2024    24
+Average Observations per Year: 10.64
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 46.0891 to 48.9861
+Longitude Range: -103.8607 to -96.7753
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
