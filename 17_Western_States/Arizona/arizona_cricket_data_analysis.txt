@@ -1,0 +1,74 @@
+
+Cricket Observation Data Analysis (Arizona, All Observations)
+Generated on 2025-06-17 12:52:11
+============================================================
+
+1. Overview
+-----------
+Total Observations: 2992
+Unique Species Identified: 64
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllodes sigillatus      674
+Gryllus                   568
+Oecanthus                 319
+Oecanthus californicus    182
+Gryllidea                 158
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       68
+February      58
+March        146
+April        224
+May          196
+June         271
+July         393
+August       527
+September    487
+October      303
+November     216
+December     103
+Average Observations per Month: 249.33
+
+Observations by Year:
+year
+1952      1
+2003      1
+2006      2
+2007      1
+2008      1
+2009      1
+2010      6
+2011      7
+2012     16
+2013     13
+2014      9
+2015     32
+2016     49
+2017     82
+2018    142
+2019    292
+2020    229
+2021    353
+2022    554
+2023    491
+2024    624
+2025     86
+Average Observations per Year: 136.00
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 31.3341 to 36.9816
+Longitude Range: -114.8011 to -109.0505
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
