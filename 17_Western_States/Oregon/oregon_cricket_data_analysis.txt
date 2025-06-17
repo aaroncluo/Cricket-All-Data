@@ -1,0 +1,75 @@
+
+Cricket Observation Data Analysis (Oregon, All Observations)
+Generated on 2025-06-17 12:52:55
+============================================================
+
+1. Overview
+-----------
+Total Observations: 7085
+Unique Species Identified: 131
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Melanoplus                   1028
+Dissosteira carolina          655
+Trimerotropis verruculata     467
+Melanoplus sanguinipes        456
+Acrididae                     440
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January         5
+February        1
+March          14
+April          58
+May           215
+June          656
+July         1430
+August       2557
+September    1590
+October       505
+November       49
+December        5
+Average Observations per Month: 590.42
+
+Observations by Year:
+year
+2000       3
+2004       3
+2005       1
+2006       4
+2007       1
+2008       2
+2009       2
+2010       3
+2011       7
+2012      13
+2013      11
+2014      19
+2015      11
+2016      66
+2017     105
+2018     154
+2019     660
+2020    1030
+2021     814
+2022     922
+2023    1906
+2024    1335
+2025      13
+Average Observations per Year: 308.04
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 41.9933 to 46.2277
+Longitude Range: -124.5113 to -116.5674
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
