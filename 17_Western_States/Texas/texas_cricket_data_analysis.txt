@@ -1,0 +1,77 @@
+
+Cricket Observation Data Analysis (Texas, All Observations)
+Generated on 2025-06-17 12:53:06
+============================================================
+
+1. Overview
+-----------
+Total Observations: 21543
+Unique Species Identified: 121
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllus       5698
+Oecanthus     1799
+Grylloidea    1686
+Gryllidea     1627
+Gryllini      1135
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       338
+February      570
+March        1355
+April        2970
+May          1852
+June         1560
+July         1835
+August       1657
+September    4136
+October      3042
+November     1579
+December      649
+Average Observations per Month: 1795.25
+
+Observations by Year:
+year
+1972       1
+1997       1
+2001       1
+2004       3
+2005       2
+2006       1
+2007       5
+2008       1
+2009      10
+2010      10
+2011       1
+2012       2
+2013      31
+2014      43
+2015      80
+2016     355
+2017     513
+2018    1187
+2019    1827
+2020    1822
+2021    2747
+2022    2782
+2023    3003
+2024    5825
+2025    1290
+Average Observations per Year: 861.72
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 25.8483 to 36.2328
+Longitude Range: -106.6348 to -93.5580
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
