@@ -1,0 +1,66 @@
+
+Cricket Observation Data Analysis (Washington, All Observations)
+Generated on 2025-06-17 12:53:51
+============================================================
+
+1. Overview
+-----------
+Total Observations: 633
+Unique Species Identified: 30
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Oecanthus                 109
+Gryllus                   101
+Gryllus veletis            62
+Nemobius sylvestris        60
+Oecanthus californicus     48
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January        0
+February       4
+March         18
+April         54
+May           73
+June          51
+July          66
+August       144
+September    130
+October       72
+November      16
+December       5
+Average Observations per Month: 52.75
+
+Observations by Year:
+year
+2005      1
+2012      2
+2014      7
+2015      1
+2016      3
+2017     11
+2018     10
+2019     20
+2020     53
+2021     60
+2022    119
+2023    170
+2024    158
+2025     18
+Average Observations per Year: 45.21
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 45.5596 to 48.9735
+Longitude Range: -124.3210 to -117.0028
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
