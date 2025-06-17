@@ -1,0 +1,71 @@
+
+Cricket Observation Data Analysis (Oklahoma, All Observations)
+Generated on 2025-06-17 12:52:52
+============================================================
+
+1. Overview
+-----------
+Total Observations: 1874
+Unique Species Identified: 64
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllus                   374
+Gryllus pennsylvanicus    270
+Oecanthus                 151
+Gryllini                  138
+Grylloidea                113
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       13
+February      16
+March         49
+April        207
+May          163
+June         175
+July         228
+August       297
+September    281
+October      275
+November     140
+December      30
+Average Observations per Month: 156.17
+
+Observations by Year:
+year
+2000      1
+2004      1
+2008      1
+2010      2
+2011      5
+2012     12
+2013      9
+2014     10
+2015     12
+2016     25
+2017     51
+2018    105
+2019    146
+2020    213
+2021    260
+2022    259
+2023    357
+2024    363
+2025     42
+Average Observations per Year: 98.63
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 33.7235 to 36.9569
+Longitude Range: -103.0020 to -94.4872
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
