@@ -1,0 +1,66 @@
+
+Cricket Observation Data Analysis (South Dakota, All Observations)
+Generated on 2025-06-17 12:53:05
+============================================================
+
+1. Overview
+-----------
+Total Observations: 198
+Unique Species Identified: 24
+
+2. Species Distribution
+-----------------------
+Top 5 Most Observed Species:
+scientific_name
+Gryllus pennsylvanicus    46
+Gryllus                   38
+Gryllus veletis           26
+Oecanthus                 21
+Allonemobius              19
+
+3. Temporal Distribution
+------------------------
+Observations by Month:
+month
+January       1
+February      1
+March         3
+April         5
+May          11
+June         14
+July         25
+August       60
+September    53
+October      21
+November      3
+December      1
+Average Observations per Month: 16.50
+
+Observations by Year:
+year
+2004     1
+2013     2
+2014     2
+2015     2
+2016     2
+2017     4
+2018     3
+2019    12
+2020    33
+2021    25
+2022    32
+2023    37
+2024    38
+2025     5
+Average Observations per Year: 14.14
+
+4. Geographic Distribution
+--------------------------
+Latitude Range: 42.5378 to 45.8138
+Longitude Range: -103.8435 to -96.4602
+
+5. Notes
+--------
+- All observations included, regardless of quality grade or location.
+- Observations with invalid dates or coordinates were excluded.
+- Map and bar graph generated for visualization.
